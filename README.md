@@ -14,7 +14,7 @@ Bu repo içerisinde aşağıdaki dosyaları barındırmaktadır.
   
 
 * MainTwo.java
-    * Kullanıcıdan alınan sayı ile 0 arasındaki çift sayıları do-while
+    * Kullanıcıdan alınan sayı ile 0 arasındaki çift sayıları while
       döngüsü kullanarak ekrana yazdıran program.
 
 
